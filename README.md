@@ -1,16 +1,21 @@
-# RX-78-2 Codex Skin for Windows
+# GPT-skin-Gundam for Windows
+<img width="2560" height="1393" alt="首页效果" src="https://github.com/user-attachments/assets/cbc0b05c-fc98-41b0-9339-43e00cc9999a" />
 
-这是 `Codex-skin-gundam` 的 Windows 运行时适配层。便携发行包解压后双击
+<img width="2560" height="1391" alt="其他页面" src="https://github.com/user-attachments/assets/e52a367c-d6a3-4af4-a063-e82a3960690d" />
+
+
+这是 `GPT-skin-Gundam` 的 Windows 运行时适配层。便携发行包解压后双击
 `INSTALL.cmd` 即可；安装完成后，解压目录可以删除。
 
-它不会修改或解包 Codex 的 `app.asar`，也不会覆盖 Microsoft Store / MSIX 安装目录中的任何文件。安装器只会：
+它不会修改或解包 GPT 的 `app.asar`，也不会覆盖 Microsoft Store / MSIX 安装目录中的任何文件。安装器只会：
 
 1. 把皮肤资源复制到 `%LOCALAPPDATA%\CodexDreamSkinGundam`；
-2. 用本机回环调试端口启动 Codex；
+2. 用本机回环调试端口启动 GPT；
 3. 通过 Chrome DevTools Protocol 向主窗口注入 CSS；
 4. 创建当前用户的登录自启动项；
 5. 提供完整卸载脚本。
-
+   
+提醒：这是个人制作的非官方主题，不代表 Chiikawa 版权方、OpenAI 或 Codex++ 官方授权。完整皮肤依赖第三方增强工具，可能修改客户端文件和代码签名。
 ## 文件
 
 - `Install-Skin.ps1`：安装、启动并验证皮肤。
