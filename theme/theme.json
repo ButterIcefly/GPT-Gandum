@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "id": "custom-1784518930245",
+  "name": "RX-78-2 · WHITE BASE",
+  "brandSubtitle": "CODEX DREAM SKIN",
+  "tagline": "白色装甲，专注推进。",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "◉  选择项目",
+  "statusText": "DREAM SKIN ONLINE",
+  "quote": "RX-78-2 / WHITE BASE",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "safeArea": "left",
+    "taskMode": "ambient",
+    "focusX": 0.7,
+    "focusY": 0.5
+  },
+  "colors": {
+    "accent": "#315a9d",
+    "accentAlt": "#315a9d",
+    "line": "rgba(49, 90, 157, 0.32)",
+    "secondary": "#dca52a",
+    "highlight": "#a8443c"
+  }
+}
