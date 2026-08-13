@@ -1,4 +1,4 @@
-# 🎭 GPT-skin-Gundam · Windows 
+# 🌠 GPT-skin-Gundam · Windows 
 
 <p align="center">
   <em>为 GPT 客户端注入  高达 主题皮肤的第三方运行时适配层</em>
