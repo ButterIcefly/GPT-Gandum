@@ -1,4 +1,4 @@
-<img width="301" height="434" alt="image" src="https://github.com/user-attachments/assets/4cce6412-8fc2-4709-9b95-76f30428d0d8" /># GPT-Gandum
+# GPT-Gandum
 GPT Windows app theme
 使用方法：
 复制 ZIP 到其他 Windows 电脑。
